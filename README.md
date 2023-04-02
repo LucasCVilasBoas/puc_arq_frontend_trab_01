@@ -1,2 +1,3 @@
-# puc_arq_frontend_trab_01
-Created with CodeSandbox
+Trabalho desenvolvido para a disciplina Arquitetura de Frontend, da Especialização em Engenharia de Software da PUC-Minas.
+
+Nome: Lucas Cerqueira Vilas Boas
